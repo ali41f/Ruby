@@ -10,68 +10,49 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CodeWar@Drunk_Friend.coverage" NAME="Drunk Friend Coverage Results" MODIFIED="1494174823831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Rot13.coverage" NAME="Rot13 Coverage Results" MODIFIED="1494182505043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Common_Denominators.coverage" NAME="Common Denominators Coverage Results" MODIFIED="1494196088898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Valid_Parentheses.coverage" NAME="Valid Parentheses Coverage Results" MODIFIED="1494194835276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Sum_of_Pairs.coverage" NAME="Sum of Pairs Coverage Results" MODIFIED="1494243614151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Convert_boolean_values_to_strings__Yes__or__No_.coverage" NAME="Convert boolean values to strings 'Yes' or 'No' Coverage Results" MODIFIED="1494266605481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Vowel_Count.coverage" NAME="Vowel Count Coverage Results" MODIFIED="1501536334392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@First_non_repeating_letter.coverage" NAME="First non-repeating letter Coverage Results" MODIFIED="1494192653714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Phone_my_kids.coverage" NAME="Phone my kids Coverage Results" MODIFIED="1494181725290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Not_very_secure.coverage" NAME="Not very secure Coverage Results" MODIFIED="1494181107396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
-    <SUITE FILE_PATH="coverage/CodeWar@Stop_gninnipS_My_sdroW_.coverage" NAME="Stop gninnipS My sdroW! Coverage Results" MODIFIED="1494176349009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 kyu" MODULE_NAME="CodeWar" />
     <SUITE FILE_PATH="coverage/CodeWar@Extract_the_domain_name_from_a_URL.coverage" NAME="Extract the domain name from a URL Coverage Results" MODIFIED="1494171437484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Number_Prime.coverage" NAME="Number Prime Coverage Results" MODIFIED="1503499238548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Stop_gninnipS_My_sdroW_.coverage" NAME="Stop gninnipS My sdroW! Coverage Results" MODIFIED="1494176349009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Convert_boolean_values_to_strings__Yes__or__No_.coverage" NAME="Convert boolean values to strings 'Yes' or 'No' Coverage Results" MODIFIED="1494266605481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8 kyu" MODULE_NAME="CodeWar" />
     <SUITE FILE_PATH="coverage/CodeWar@Sort_arrays___3.coverage" NAME="Sort arrays - 3 Coverage Results" MODIFIED="1494203513201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Not_very_secure.coverage" NAME="Not very secure Coverage Results" MODIFIED="1494181107396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Common_Denominators.coverage" NAME="Common Denominators Coverage Results" MODIFIED="1494196088898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@First_non_repeating_letter.coverage" NAME="First non-repeating letter Coverage Results" MODIFIED="1494192653714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Rot13.coverage" NAME="Rot13 Coverage Results" MODIFIED="1494182505043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Sum_of_Pairs.coverage" NAME="Sum of Pairs Coverage Results" MODIFIED="1494243614151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Vowel_Count.coverage" NAME="Vowel Count Coverage Results" MODIFIED="1501536334392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Phone_my_kids.coverage" NAME="Phone my kids Coverage Results" MODIFIED="1494181725290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Drunk_Friend.coverage" NAME="Drunk Friend Coverage Results" MODIFIED="1494174823831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
+    <SUITE FILE_PATH="coverage/CodeWar@Valid_Parentheses.coverage" NAME="Valid Parentheses Coverage Results" MODIFIED="1494194835276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5 kyu" MODULE_NAME="CodeWar" />
     <SUITE FILE_PATH="coverage/CodeWar@Evil_Autocorrect_Prank.coverage" NAME="Evil Autocorrect Prank Coverage Results" MODIFIED="1494169993202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 kyu" MODULE_NAME="CodeWar" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Return Substring Instance Count.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 kyu/Return Substring Instance Count.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Phone my kids.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5 kyu/Phone my kids.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Common Denominators.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5 kyu/Common Denominators.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dragon Curve.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6 kyu/Dragon Curve.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Vowel Count.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7 kyu/Vowel Count.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+            <state relative-caret-position="680">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Multiples of 3 and 5.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6 kyu/Multiples of 3 and 5.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Number Prime.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6 kyu/Number Prime.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="67" column="23" lean-forward="false" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -89,10 +70,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>fract</find>
+      <find>getCount</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>fraction</replace>
+      <replace>get_count</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -115,6 +98,8 @@
         <option value="$PROJECT_DIR$/7 kyu/List Filtering .rb" />
         <option value="$PROJECT_DIR$/5 kyu/Common Denominators.rb" />
         <option value="$PROJECT_DIR$/6 kyu/Dragon Curve.rb" />
+        <option value="$PROJECT_DIR$/7 kyu/Vowel Count.rb" />
+        <option value="$PROJECT_DIR$/6 kyu/Number Prime.rb" />
       </list>
     </option>
   </component>
@@ -136,11 +121,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="18" />
+    <option name="width" value="960" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -157,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,15 +155,31 @@
               <item name="CodeWar" type="462c0819:PsiDirectoryNode" />
               <item name="5 kyu" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodeWar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWar" type="462c0819:PsiDirectoryNode" />
+              <item name="6 kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWar" type="462c0819:PsiDirectoryNode" />
+              <item name="7 kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWar" type="462c0819:PsiDirectoryNode" />
+              <item name="8 kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Ruby24-x64/bin/ruby.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WDI_LDN_28_HOMEWORK/Antimony51122/w10d02" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -194,7 +194,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.Vowel Count">
+  <component name="RunManager" selected="Ruby.Number Prime">
+    <configuration name="Number Prime" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="CodeWar" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/6 kyu" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/6 kyu/Number Prime.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -367,7 +385,7 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="12">
+    <list size="13">
       <item index="0" class="java.lang.String" itemvalue="Ruby.Drunk Friend" />
       <item index="1" class="java.lang.String" itemvalue="Ruby.Stop gninnipS My sdroW!" />
       <item index="2" class="java.lang.String" itemvalue="Ruby.Not very secure" />
@@ -380,7 +398,13 @@
       <item index="9" class="java.lang.String" itemvalue="Ruby.Sum of Pairs" />
       <item index="10" class="java.lang.String" itemvalue="Ruby.Convert boolean values to strings 'Yes' or 'No'" />
       <item index="11" class="java.lang.String" itemvalue="Ruby.Vowel Count" />
+      <item index="12" class="java.lang.String" itemvalue="Ruby.Number Prime" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.Number Prime" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -400,22 +424,25 @@
       <workItem from="1500068626894" duration="9000" />
       <workItem from="1501535718908" duration="207000" />
       <workItem from="1501535941115" duration="967000" />
+      <workItem from="1503325076549" duration="1390000" />
+      <workItem from="1503391903671" duration="29000" />
+      <workItem from="1503421964451" duration="5292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29145000" />
+    <option name="totallyTimeSpent" value="35856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="960" y="18" width="960" height="1017" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29479167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26234567" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26757607" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -425,6 +452,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -485,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6 kyu/Number Prime.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6 kyu/Take a ten Minute Walk.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -685,18 +705,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6 kyu/Multiples of 3 and 5.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6 kyu/Array Helpers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,42 +775,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7 kyu/Return Substring Instance Count.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5 kyu/Phone my kids.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5 kyu/Common Denominators.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6 kyu/Dragon Curve.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7 kyu/Vowel Count.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7 kyu/Return Substring Instance Count.rb">
+    <entry file="file://$PROJECT_DIR$/6 kyu/Multiples of 3 and 5.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        <state relative-caret-position="34">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5 kyu/Phone my kids.rb">
+    <entry file="file://$PROJECT_DIR$/6 kyu/Number Prime.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="586">
+          <caret line="67" column="23" lean-forward="false" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
           <folding />
         </state>
       </provider>

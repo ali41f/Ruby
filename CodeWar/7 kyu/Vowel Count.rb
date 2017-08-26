@@ -1,7 +1,7 @@
-def getCount(inputStr)
+def get_count(input_str)
   count = 0
   vowels = /[aeiou]/
-  inputStr.each_char do |char|
+  input_str.each_char do |char|
     if char.match(vowels)
       count += 1
     end
@@ -9,39 +9,39 @@ def getCount(inputStr)
   count # means "return count", "return" negligible
 end
 
-print getCount("abracaAdabra"),"\n" # didn't think of uppercase
+print get_count('abracaAdabra'),"\n" # didn't think of uppercase
 
 
 
 
-def getCount1(inputStr)
-  inputStr.count("aeiou")
+def get_count1(input_str)
+  input_str.count('aeiou')
 end
 
-print getCount1("abracaAdabra"),"\n"
+print get_count1('abracaAdabra'),"\n"
 
 # more precisely, taking account of capitals
-def getCount2(inputStr)
-  inputStr.downcase.count('aeiou')
+def get_count2(input_str)
+  input_str.downcase.count('aeiou')
 end
 
-print getCount2("abracaAdabra"),"\n"
+print get_count2('abracaAdabra'),"\n"
 
 
 
 
-def getCount3(inputStr)
-  inputStr.scan(/[aeiou]/i).size
+def get_count3(input_str)
+  input_str.scan(/[aeiou]/i).size
 end
 
-print getCount3("abracaAdabra"),"\n"
+print get_count3('abracaAdabra'),"\n"
 
 
 
 
-def getCount4(inputStr)
+def get_count4(input_str)
   array = []
-  word = inputStr.downcase.split("")
+  word = input_str.downcase.split('')
 
   word.each do |i|
     if i == 'a'
@@ -60,5 +60,5 @@ def getCount4(inputStr)
   p array.length
 end
 
-print getCount4("abracaAdabra"),"\n"
+print get_count4('abracaAdabra'),"\n"
 

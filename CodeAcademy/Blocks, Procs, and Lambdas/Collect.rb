@@ -15,13 +15,9 @@ puts my_nums1
 
 
 =begin
-
 Instructions
 
-We've created an array, "fibs", and placed the first ten Fibonacci numbers in it.
-Create a new variable, "doubled_fibs", and set it equal to the result of calling "fibs.collect".
-The block you pass to ".collect" should double each Fibonacci number.
-
+We've created an array, "fibs", and placed the first ten Fibonacci numbers in it. Create a new variable, "doubled_fibs", and set it equal to the result of calling "fibs.collect". The block you pass to ".collect" should double each Fibonacci number.
 =end
 
 fibs = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]

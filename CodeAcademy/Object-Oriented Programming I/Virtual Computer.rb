@@ -4,7 +4,7 @@ class Computer
   def initialize(username, password)
     @username = username
     @password = password
-    @@users[username] = password # set @@users[username] = password so that @@users hash keeps usernames as keys with each username's password as the associated value.
+    @@users[username] = password # set @@users[username] = password so that @@users hash keeps     usernames as keys with each username's password as the associated value.
     @files = {} # all instance variables need to be set by parameters! Your @files should just be @files = {}
   end
 

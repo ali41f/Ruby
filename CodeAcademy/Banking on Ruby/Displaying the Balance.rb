@@ -18,8 +18,7 @@ class Account
       end
 
       def pin_error
-        "Access denied: incorrect PIN."
-
+        'Access denied: incorrect PIN.'
 
       else
         pin_error
