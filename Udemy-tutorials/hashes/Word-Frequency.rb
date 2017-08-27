@@ -5,6 +5,7 @@ def word_count(string)
 	# keys represent the words in the string;
 	# values represent how manys times occur
 	words = string.split(" ")
+	p words
 	counts = Hash.new(0)
 	# cannot use counts = {} here
 	# because before counting the first time, the word doesn't exist returning a nil
