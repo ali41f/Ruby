@@ -7,3 +7,8 @@ def pass_control_on_condition
 end
 
 pass_control_on_condition { puts "Hello there" }
+
+# -->
+# Inside the method
+# Hello there
+# Back inside the method

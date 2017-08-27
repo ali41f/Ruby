@@ -5,6 +5,6 @@ p story.slice(5, 4)
 # first arg the start letter, second arg how many letters to proceed
 
 p story[0, story.length]
-p story.slice(0, story.length)
+p story.slice(0, story.length) # returning whole string
 
 p story[-7, -5]

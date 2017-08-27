@@ -21,3 +21,9 @@ talk_about("Boris", &good_things)
 
 # talk_about("Boris", good_things)
 # --> talk_about': wrong number of arguments (given 2, expected 1) (ArgumentError)
+
+talk_about("Boris", &bad_things)
+# -->
+# Let me tell you about Boris.
+# Boris is a dolt
+# I can't stand Boris
