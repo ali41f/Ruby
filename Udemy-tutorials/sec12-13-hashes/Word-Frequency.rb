@@ -1,21 +1,21 @@
-sentence = "Once upon a time in a land far far away"
+sentence = 'Once upon a time in a land far far away'
 
 def word_count(string)
-	# Return a hash
-	# keys represent the words in the string;
-	# values represent how manys times occur
-	words = string.split(" ")
-	p words
-	counts = Hash.new(0)
-	# cannot use counts = {} here
-	# because before counting the first time, the word doesn't exist returning a nil
-	# thus count value will break
-	# therefore set default count to 0
+  # Return a hash
+  # keys represent the words in the string;
+  # values represent how many times occur
+  words = string.split(' ')
+  p words
+  counts = Hash.new(0)
+  # cannot use counts = {} here
+  # because before counting the first time, the word doesn't exist returning a nil
+  # thus count value will break
+  # therefore set default count to 0
 
-	words.each do |word|
-		counts[word] += 1
-	end
-	counts
+  words.each do |word|
+    counts[word] += 1
+  end
+  counts
 end
 
 p word_count(sentence)

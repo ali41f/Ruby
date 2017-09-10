@@ -1,19 +1,19 @@
 def convert_to_euros(dollars)
-	if dollars.is_a?(Numeric)
-		dollars * 0.95
-	end
+  if dollars.is_a?(Numeric)
+    dollars * 0.95
+  end
 end
 
 def convert_to_pesos(dollars)
-	if dollars.is_a?(Numeric)
-		dollars * 20.67
-	end
+  if dollars.is_a?(Numeric)
+    dollars * 20.67
+  end
 end
 
 def convert_to_rupees(dollars)
-	if dollars.is_a?(Numeric)
-		dollars * 68.13
-	end
+  if dollars.is_a?(Numeric)
+    dollars * 68.13
+  end
 end
 
 
@@ -24,7 +24,7 @@ p convert_to_rupees(1000)
 
 
 def convert(dollars, currency)
-	yield(dollars, currency) if dollars.is_a?(Numeric)
+  yield(dollars, currency) if dollars.is_a?(Numeric)
 end
 
 p convert(1000, "euros") { |dollars| dollars * 0.95 }
@@ -38,7 +38,7 @@ to_pesos = lambda { |dollars| dollars * 20.67 }
 to_rupees = lambda { |dollars| dollars * 68.13 }
 
 def convert2(dollars, currency_lambda)
-	currency_lambda.call(dollars) if dollars.is_a?(Numeric)
+  currency_lambda.call(dollars) if dollars.is_a?(Numeric)
 end
 
 p convert2(1000, to_euros)

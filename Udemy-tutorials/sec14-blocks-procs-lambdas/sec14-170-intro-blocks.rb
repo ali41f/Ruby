@@ -3,7 +3,7 @@
 # blocks alter the execution of the method
 # a block is not an arg/param to the method
 # blocks can be defined with "{ }" or "do end"
-# block cn get or update the value of local var within the block
+# block can get or update the value of local var within the block
 
 # Methods vs. blocks
 # Methods can be invoked over and over, block only called once, then disappear
