@@ -24,7 +24,6 @@ puts phone.info # smth similar to --> Gadget s-60 has the username User 62
 puts laptop.info # smth similar to --> Gadget a-600 has the username User 16
 
 # puts phone.@username # returns err as instance vars only available inside class
-# # --> syntax error, unexpected tIVAR, expecting '('puts phone.@username
 
 # puts Gadget.info
 # # --> undefined method `info' for Gadget:Class (NoMethodError)

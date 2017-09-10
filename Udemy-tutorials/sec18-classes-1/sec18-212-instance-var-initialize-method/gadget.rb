@@ -13,8 +13,8 @@
 class Gadget
   def initialize # this is not custom, it has to be initialize
     @username = "User #{rand(1..100)}"
-    @password = "topsecret"
-    @production_number = "#{("a".."z").to_a.sample}-#{rand(1..999)}"
+    @password = 'topsecret'
+    @production_number = "#{('a'..'z').to_a.sample}-#{rand(1..999)}"
   end
 end
 
