@@ -6,4 +6,16 @@ class Player
     @score = 0
   end
 
+  def get_move
+    [get_row, get_column]
+  end
+
+  def get_row
+    gets.to_i
+  end
+
+  def get_column
+    gets.to_i
+  end
+
 end

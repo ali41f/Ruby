@@ -14,4 +14,6 @@ puts 'Player one, pick a move'
 
 # TODO: Get a move from player one
 # TODO: Mark that place on the board
-# TODO: Check for win
+# TODO: Check for winner
+
+game.play_turn(players[0])
